@@ -1,0 +1,76 @@
+body {
+    background-image: url(https://www.xtrafondos.com/thumbs/webp/1_3472.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.titulo {
+   
+    /*margin: 0;
+    /*display: flex;
+    /*justify-content: center;*/
+    text-align: center;
+    height: 60xp;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+
+.parrafo {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.header {
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 38vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.ul {
+    display: flexbox;
+    width: 10px;
+    height: 5px;
+    border-radius: 10px;
+    font-family: fantasy;
+    list-style-type: none;
+    margin: 150px 50px;
+}
+
+.lista {
+    list-style: none;
+    padding: 0;
+    margin: 10px;
+    position: absolute;
+    top: 10px;
+    left: 0;
+
+
+}
+
+
+button {
+
+    background-color: #249188;
+    display: flex;
+    display: inline;
+    justify-content: space-evenly;
+    border-bottom: 30px;
+    padding: 40px 65px;
+    text-align: center;
+    color: #fff;
+    font-family: fantasy;
+    font-size: 40px;
+    margin: 50px 50px;
+    cursor: pointer;
+    border-radius: 25px;
+
+
+}

@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqD41Z4Ozupi6hN137kkmuYBeVVpPqp1cwlw&usqp=CAUb);
+    background-size: cover;
+    background-position: center;
+    
+
+}  
+
+.tabla {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 5px;
+    width: 320px;
+    margin: 20px auto;
+}
+
+.celda {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+h1, p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
